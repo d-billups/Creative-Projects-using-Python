@@ -1,6 +1,6 @@
 # personal_fun
 Just some random mini projects that I decided to explore!
-Take a look at the visuals I created for an interactive map: https://nbviewer.org/github/d-billups/personal_fun/blob/main/mapping.ipynb
+Take a look at the visuals I created for an interactive map: https://nbviewer.org/github/d-billups/personal_fun/blob/main/emp_map.ipynb
 The program itself outlines the purpose of the program and what I used
 
 Check out the interactive maps I made for the child marriage Notebook:

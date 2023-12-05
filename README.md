@@ -1,6 +1,8 @@
 # personal_fun
 Just some random mini projects that I decided to explore!
 
+Here's the viewer for the final version of the employee map: https://nbviewer.org/github/d-billups/personal_fun/blob/main/final_employee_map.ipynb
+
 Take a look at the notebook I created that analyzes shark attacks in California from the 1950s until present day: https://nbviewer.org/github/d-billups/personal_fun/blob/main/shark_attacks.ipynb
 I downloaded this daataset from Kaggle, and my goal was exploratory for the most part. After looking at the dataset, I was interested in seeing what species of shark accounted for the most deadly attacks, what mode put individuals at the most risk for shark attacks, what counties had the highest incidence of attacks, and much more. In the end, I created a word cloud based off of the 'Comment' series in the dataset to see which words were being used the most and I put that cloud into an actual shark mask (this was my first time doing so!) I used pandas, matplotlib, regex, and plotly.express.
 

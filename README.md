@@ -1,6 +1,9 @@
 # personal_fun
 Just some random mini projects that I decided to explore!
 
+The 'counting_words_better' pdf is an amplified counting words program in that it pulls all of the text files in a specified directory and counts the
+words in each file and also returns the most common word in each file.
+
 Here's the viewer for the final version of the employee map: https://nbviewer.org/github/d-billups/personal_fun/blob/main/final_employee_map1.ipynb
 
 Take a look at the notebook I created that analyzes shark attacks in California from the 1950s until present day: https://nbviewer.org/github/d-billups/personal_fun/blob/main/shark_attacks.ipynb

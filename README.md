@@ -1,5 +1,3 @@
-Welcome to my GitHub! Here, you'll find a collection of projects that showcase my technical expertise, data storytelling, and creative problem-solving — taking data from raw form to actionable visualizations.
-
 Here's the notebook viewer for the final version of the employee map: https://nbviewer.org/github/d-billups/personal_fun/blob/main/final_employee_map1.ipynb
 
 Take a look at the notebook I created that analyzes shark attacks in California from the 1950s until present day: https://nbviewer.org/github/d-billups/personal_fun/blob/main/shark_attacks.ipynb
